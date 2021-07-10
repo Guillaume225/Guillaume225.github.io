@@ -9,10 +9,8 @@ body{
 	margin: 0;
     font-family: 'Montserrat', sans-serif;
 }
-.pub{
-	height: 100px;
-	border-bottom: 5px solid;#6f6f6f;
-}
+
+
 
 
 
@@ -26,7 +24,7 @@ header{
 /*	background-size: 1348px; */
 	background-size: cover;
 	height: 500px;
-	top: 50px;
+	top: 0px;
 	
 	
 }
