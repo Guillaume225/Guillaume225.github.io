@@ -67,7 +67,12 @@ header h1{
 	left: 0px;
 }
 
-
+.globale{
+		display: flex;
+	flex-direction: all;
+	align-items: Center; 
+	text-align: center;
+}
 
 .ListeSection{
 	display: flex;
@@ -162,6 +167,25 @@ header h1{
      width: 280px;
      margin-top: 5px;
 
+}
+
+.instagram{
+	padding-top: 70px;
+	margin-left: 40px;
+	margin-right: 40px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+
+.instagramMilieur{
+	margin-left: 40px;
+	
+}
+.instagramDroite{
+	margin-left: 40px;
+	
 }
 footer{
 	margin-top: 40px;
